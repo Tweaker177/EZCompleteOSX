@@ -10,3 +10,5 @@ You'll need an OpenAI API key for the requests to be processed.  If you dont hav
 
 Any issues, or suggestions for improvements feel free to open a Pull Request or create an issue..  
 
+[![i0S_tweak3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=tweaker177)](https://github.com/tweaker177/github-readme-stats)
+
